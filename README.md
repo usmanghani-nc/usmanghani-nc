@@ -80,8 +80,8 @@ I’m passionate about **harnessing AI in software engineering** to go beyond tr
 ---
 
 ## 📊 GitHub Stats
-![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanghanidev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanghanidev&layout=compact&theme=radical)  
+![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanghani-nc&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanghani-nc&layout=compact&theme=radical)  
 
 ---
 💡 *I’m always open to collaborating on exciting projects and contributing to open source.*  
