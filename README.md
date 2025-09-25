@@ -1,3 +1,5 @@
+<img height="350" src='https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4MDY0MzEsIm5iZiI6MTc1ODgwNjEzMSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI1VDEzMTUzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE3OTk2ZWU5MDAxYmY1N2NkMzEzM2M5NjUzMWY1NmJhNjM2ZTYwYjY2YzE2NTU1NWFhOTU3MGQ3MDVhNzViOGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.r7MXORXnCqIgqWUE8EqYdx_8H_lCJsCPATufJnO8YT8'/>
+
 # Hi, I'm Muhammad Usman Ghani 👋  
 
 🚀 **Senior Software Engineer | Fullstack Developer**  
@@ -9,13 +11,16 @@
 ---
 
 ## 👨‍💻 About Me
-With over **5 years of experience** in software engineering, I specialize in building **scalable B2B and SaaS applications**.  
-My core expertise lies in **MERN stack, Django REST Framework, AWS Serverless, Angular, and Next.js**.  
-I enjoy solving complex problems, designing efficient architectures, and delivering impactful digital solutions.  
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="220" />
+<span style="line-height: 1.5; font-size: 14px;">
+  With over <strong>5 years of experience</strong> in software engineering, I specialize in building <strong>scalable B2B and SaaS applications</strong>.<br>
+  My core expertise lies in <strong>MERN stack, Django REST Framework, AWS Serverless, Angular, and Next.js</strong>.<br>
+  I enjoy solving complex problems, designing efficient architectures, and delivering impactful digital solutions.
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+<img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4MDY0MzEsIm5iZiI6MTc1ODgwNjEzMSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI1VDEzMTUzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ3OWIwOTBmNjIwOWFjMjY5NWQ1NDU1Zjk4ZjM3NTgwY2M4ZWE1MGNkYjBlNGZjM2Q3MWY1YzViOTcyODNhMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LhOfF8ctfUu3G_KemfMqmvwneZvRLHS5Xcp22ZGIoKM" height='120'/>
 
 ### **Frontend**
 <p>
@@ -29,6 +34,7 @@ I enjoy solving complex problems, designing efficient architectures, and deliver
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" width="40" height="40" alt="Styled Components"/>
 </p>
 
 ### **Backend**
@@ -38,6 +44,7 @@ I enjoy solving complex problems, designing efficient architectures, and deliver
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4" width="40" height="40" alt="GraphQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
 </p>
 
 ### **Databases**
@@ -82,6 +89,12 @@ I’m passionate about **harnessing AI in software engineering** to go beyond tr
 ## 📊 GitHub Stats
 ![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanghani-nc&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanghani-nc&layout=compact&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=usmanghani-nc&color=blue)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=usmanghani-nc.readme)
 
 ---
 💡 *I’m always open to collaborating on exciting projects and contributing to open source.*  
+
+<img height="300" src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'/>
+
+
