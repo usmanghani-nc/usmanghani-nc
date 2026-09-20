@@ -2,7 +2,7 @@
 
 # Hi, I'm Muhammad Usman Ghani 👋  
 
-<img width='25' src='https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4MDY0MzEsIm5iZiI6MTc1ODgwNjEzMSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI1VDEzMTUzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyMDVhODQwZWZmMTEzZDExZjQ1MmNmZGFmOGY2NGUwOTk1MDliZTNjNjUwNzliOWI4MDJjNDlhMmVmYjgxYWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.69LP_XAsQMGiOB4-Dgoa4tK5zeGcAISX-H5yyJ0Fkes'/> **Senior Software Engineer | Fullstack Developer**  
+**Senior Software Engineer | Fullstack Developer**  
 
 📍 Karachi, Pakistan  
 📧 [usmanghanidev@gmail.com](mailto:usmanghanidev@gmail.com)  
@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="220" />
 <span style="line-height: 1.5; font-size: 14px;">
-  With over <strong>5 years of experience</strong> in software engineering, I specialize in building <strong>scalable B2B and SaaS applications</strong>.<br>
+  With over <strong>7 years of experience</strong> in software engineering, I specialize in building <strong>scalable B2B and SaaS applications</strong>.<br>
   My core expertise lies in <strong>MERN stack, Django REST Framework, AWS Serverless, Angular, and Next.js</strong>.<br>
   I enjoy solving complex problems, designing efficient architectures, and delivering impactful digital solutions.
 </div>
